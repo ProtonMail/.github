@@ -39,7 +39,7 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Inappropriate photography or recording.
  * Inappropriate physical contact. You should have someone's consent before touching them.
  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
+ * Deliberate intimidation or stalking (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
 
